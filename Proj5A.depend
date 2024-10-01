@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1575776146 source:c:\users\aziz2\onedrive\documents\cis 251\projects\project 5a\project 5a\booktypeimp.cpp
+	<iostream>
+	<string>
+	"bookType.h"
+
+1575777007 c:\users\aziz2\onedrive\documents\cis 251\projects\project 5a\project 5a\booktype.h
+	<string>
+
+1575777007 source:c:\users\aziz2\onedrive\documents\cis 251\projects\project 5a\project 5a\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"bookType.h"
+
+1576296780 source:c:\users\aziz2\onedrive\documents\cis 251\project.zip\project 5a\booktypeimp.cpp
+	<iostream>
+	<string>
+	"bookType.h"
+
+1576296780 c:\users\aziz2\onedrive\documents\cis 251\project.zip\project 5a\booktype.h
+	<string>
+
+1576296932 source:c:\users\aziz2\onedrive\documents\cis 251\project.zip\project 5a\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"bookType.h"
+
